@@ -1,6 +1,6 @@
-markdown# GraphQL with .NET & React — From Zero to Production
+# GraphQL with .NET & React — From Zero to Production
 
-> A complete, full-stack GraphQL reference implementation in .NET 8 & React —
+> A complete, full-stack GraphQL reference implementation in .NET 8 & React
 > built feature by feature, concept by concept, from first query to JWT-secured
 > production patterns.
 
@@ -11,11 +11,9 @@ markdown# GraphQL with .NET & React — From Zero to Production
 
 ---
 
-## Why This Exists
+## Purpose
 
-REST is familiar. GraphQL is powerful. But most .NET developers never make
-the jump — not because GraphQL is hard, but because no single, complete,
-.NET-specific resource existed to walk them through it end to end.
+REST is familiar. GraphQL is powerful. For many .NET developers, getting started with GraphQL can still feel unclear, especially when trying to connect all the pieces in a real project.
 
 This repo is that resource.
 
